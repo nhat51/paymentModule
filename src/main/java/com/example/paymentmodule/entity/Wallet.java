@@ -19,4 +19,5 @@ public class Wallet {
     private Integer id;
     private double balance;
     private int userId;
+    private String name;
 }
